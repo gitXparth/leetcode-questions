@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitXparth/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Stack
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Linked List
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitXparth/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
