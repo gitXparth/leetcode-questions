@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitXparth/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/gitXparth/leetcode-questions/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitXparth/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
@@ -47,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gitXparth/leetcode-questions/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -67,9 +72,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gitXparth/leetcode-questions/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
