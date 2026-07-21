@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/0002-add-two-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -92,8 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitXparth/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitXparth/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
