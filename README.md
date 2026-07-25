@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gitXparth/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/gitXparth/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gitXparth/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gitXparth/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/gitXparth/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitXparth/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gitXparth/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
