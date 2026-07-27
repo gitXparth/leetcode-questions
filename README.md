@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitXparth/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/gitXparth/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/gitXparth/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gitXparth/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitXparth/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/gitXparth/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/gitXparth/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/gitXparth/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
