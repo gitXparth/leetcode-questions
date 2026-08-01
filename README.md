@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gitXparth/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/gitXparth/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/gitXparth/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gitXparth/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/gitXparth/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gitXparth/leetcode-questions/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/gitXparth/leetcode-questions/tree/master/1768-merge-strings-alternately) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gitXparth/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gitXparth/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
