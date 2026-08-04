@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/gitXparth/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/gitXparth/leetcode-questions/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/gitXparth/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gitXparth/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gitXparth/leetcode-questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/gitXparth/leetcode-questions/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/gitXparth/leetcode-questions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -175,8 +178,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gitXparth/leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gitXparth/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
