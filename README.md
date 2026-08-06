@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/gitXparth/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/gitXparth/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitXparth/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/gitXparth/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/gitXparth/leetcode-questions/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/gitXparth/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gitXparth/leetcode-questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/gitXparth/leetcode-questions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/gitXparth/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/gitXparth/leetcode-questions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/gitXparth/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/gitXparth/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gitXparth/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
