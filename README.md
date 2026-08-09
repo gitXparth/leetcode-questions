@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/gitXparth/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/gitXparth/leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/gitXparth/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitXparth/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Linked List
