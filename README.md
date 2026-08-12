@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gitXparth/leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/gitXparth/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gitXparth/leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/gitXparth/leetcode-questions/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gitXparth/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/gitXparth/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitXparth/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -239,5 +242,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gitXparth/leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/gitXparth/leetcode-questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
