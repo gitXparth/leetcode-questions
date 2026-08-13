@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gitXparth/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/gitXparth/leetcode-questions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/gitXparth/leetcode-questions/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/gitXparth/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/gitXparth/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/gitXparth/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [0895-maximum-frequency-stack](https://github.com/gitXparth/leetcode-questions/tree/master/0895-maximum-frequency-stack) |
 ## Quickselect
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/gitXparth/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitXparth/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitXparth/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0895-maximum-frequency-stack](https://github.com/gitXparth/leetcode-questions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/gitXparth/leetcode-questions/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/gitXparth/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/gitXparth/leetcode-questions/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/gitXparth/leetcode-questions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
