@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/gitXparth/leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/gitXparth/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitXparth/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/gitXparth/leetcode-questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gitXparth/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/gitXparth/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/gitXparth/leetcode-questions/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/gitXparth/leetcode-questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/gitXparth/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gitXparth/leetcode-questions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/gitXparth/leetcode-questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gitXparth/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gitXparth/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/gitXparth/leetcode-questions/tree/master/1768-merge-strings-alternately) |
