@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/gitXparth/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/gitXparth/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/gitXparth/leetcode-questions/tree/master/0147-insertion-sort-list) |
 ## Math
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitXparth/leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/gitXparth/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/gitXparth/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/gitXparth/leetcode-questions/tree/master/0394-decode-string) |
 ## Binary Search
