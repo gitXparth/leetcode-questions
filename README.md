@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gitXparth/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitXparth/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gitXparth/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/gitXparth/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/gitXparth/leetcode-questions/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gitXparth/leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gitXparth/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/gitXparth/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
