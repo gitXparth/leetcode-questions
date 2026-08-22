@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gitXparth/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitXparth/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/gitXparth/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/gitXparth/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gitXparth/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/gitXparth/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/gitXparth/leetcode-questions/tree/master/0071-simplify-path) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0022-generate-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gitXparth/leetcode-questions/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
