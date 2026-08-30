@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gitXparth/leetcode-questions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/gitXparth/leetcode-questions/tree/master/0946-validate-stack-sequences) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gitXparth/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/gitXparth/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/gitXparth/leetcode-questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/gitXparth/leetcode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/gitXparth/leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gitXparth/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitXparth/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gitXparth/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/gitXparth/leetcode-questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/gitXparth/leetcode-questions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/gitXparth/leetcode-questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/gitXparth/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gitXparth/leetcode-questions/tree/master/0344-reverse-string) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gitXparth/leetcode-questions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/gitXparth/leetcode-questions/tree/master/0067-add-binary) |
 ## Memoization
 |  |
 | ------- |
