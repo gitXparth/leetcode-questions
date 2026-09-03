@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/gitXparth/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/gitXparth/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gitXparth/leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0147-insertion-sort-list](https://github.com/gitXparth/leetcode-questions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/gitXparth/leetcode-questions/tree/master/0206-reverse-linked-list) |
 ## Math
@@ -255,14 +256,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gitXparth/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gitXparth/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gitXparth/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gitXparth/leetcode-questions/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
