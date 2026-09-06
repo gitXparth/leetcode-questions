@@ -258,16 +258,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gitXparth/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/gitXparth/leetcode-questions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gitXparth/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/gitXparth/leetcode-questions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gitXparth/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/gitXparth/leetcode-questions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Sliding Window
 |  |
@@ -351,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gitXparth/leetcode-questions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gitXparth/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
