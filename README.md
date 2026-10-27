@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/gitXparth/leetcode-questions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/gitXparth/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gitXparth/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gitXparth/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gitXparth/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/gitXparth/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gitXparth/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gitXparth/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/gitXparth/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/gitXparth/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gitXparth/leetcode-questions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/gitXparth/leetcode-questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/gitXparth/leetcode-questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/gitXparth/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gitXparth/leetcode-questions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/gitXparth/leetcode-questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gitXparth/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
