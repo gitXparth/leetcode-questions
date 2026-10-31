@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/gitXparth/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/gitXparth/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/gitXparth/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/gitXparth/leetcode-questions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/gitXparth/leetcode-questions/tree/master/0735-asteroid-collision) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/gitXparth/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/gitXparth/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gitXparth/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/gitXparth/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/gitXparth/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
