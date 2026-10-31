@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitXparth/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/gitXparth/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/gitXparth/leetcode-questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/gitXparth/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/gitXparth/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/gitXparth/leetcode-questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gitXparth/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/gitXparth/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/gitXparth/leetcode-questions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gitXparth/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/gitXparth/leetcode-questions/tree/master/0143-reorder-list) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gitXparth/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitXparth/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gitXparth/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/gitXparth/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gitXparth/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gitXparth/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gitXparth/leetcode-questions/tree/master/0125-valid-palindrome) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gitXparth/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/gitXparth/leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/gitXparth/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/gitXparth/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitXparth/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gitXparth/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/gitXparth/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/gitXparth/leetcode-questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/gitXparth/leetcode-questions/tree/master/0901-online-stock-span) |
